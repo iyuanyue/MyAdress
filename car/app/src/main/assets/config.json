@@ -1,0 +1,106 @@
+{
+  "apps": {
+    "app1": {
+      "name": "应用1",
+      "packageName": "app1"
+    },
+    "app2": {
+      "name": "应用2",
+      "packageName": "app2"
+    },
+    "app3": {
+      "name": "应用3",
+      "packageName": "app1"
+    },
+    "app4": {
+      "name": "应用4",
+      "packageName": "app4"
+    }
+  },
+  "nearby": {
+    "nearby1": {
+      "name": "停车场",
+      "icon": "park",
+      "keyword": "停车场"
+    },
+    "nearby2": {
+      "name": "充电站",
+      "icon": "evstation",
+      "keyword": "充电站"
+    },
+    "nearby3": {
+      "name": "超市",
+      "icon": "shop",
+      "keyword": "超市"
+    },
+    "nearby4": {
+      "name": "卫生间",
+      "icon": "toilet",
+      "keyword": "卫生间"
+    }
+  },
+  "address": {
+    "address1": {
+      "name": "地址1",
+      "icon": "place_holder",
+      "poiname": "地址1",
+      "lat": 3.14159,
+      "lon": 1.23456
+    },
+    "address2": {
+      "name": "地址2",
+      "icon": "place_holder",
+      "poiname": "地址2",
+      "lat": 3.14159,
+      "lon": 1.23456
+    },
+    "address3": {
+      "name": "地址3",
+      "icon": "place_holder",
+      "poiname": "地址3",
+      "lat": 3.14159,
+      "lon": 1.23456
+    },
+    "address4": {
+      "name": "地址4",
+      "icon": "place_holder",
+      "poiname": "地址4",
+      "lat": 3.14159,
+      "lon": 1.23456
+    },
+    "address5": {
+      "name": "地址5",
+      "icon": "place_holder",
+      "poiname": "地址5",
+      "lat": 3.14159,
+      "lon": 1.23456
+    },
+    "address6": {
+      "name": "地址6",
+      "icon": "place_holder",
+      "poiname": "地址6",
+      "lat": 3.14159,
+      "lon": 1.23456
+    }
+  },
+  "homework": {
+    "home": {
+      "name": "回家",
+      "icon": "home",
+      "poiname": "家",
+      "lat": 3.14159,
+      "lon": 1.23456
+    },
+    "work": {
+      "name": "公司",
+      "icon": "work",
+      "poiname": "公司",
+      "lat": 3.14159,
+      "lon": 1.23456
+    },
+    "speech": {
+      "name": "语音识别",
+      "icon": "speech"
+    }
+  }
+}

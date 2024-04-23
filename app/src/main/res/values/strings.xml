@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">car</string>
+    <string name="button">Button</string>
+    <string name="wi_fi_button">Wi-Fi button</string>
+    <string name="exit_button">Exit button</string>
+    <string name="data_and_time">Data and Time</string>
+    <string name="wifi">Wifi</string>
+    <string name="_text">123</string>
+</resources>
