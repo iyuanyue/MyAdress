@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">car</string>
+    <string name="app_name">快速导航</string>
     <string name="button">Button</string>
     <string name="wi_fi_button">Wi-Fi button</string>
     <string name="exit_button">Exit button</string>
